@@ -1,4 +1,4 @@
 # Checker---Console-Application
-Checker Game Implemented in C#
+Checkers Game Implemented in C#
 
 
